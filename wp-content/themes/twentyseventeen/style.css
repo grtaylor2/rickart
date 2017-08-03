@@ -296,6 +296,14 @@ template {
 	display: none;
 }
 
+body #gform_wrapper_1 .gform_body .gform_fields .gfield .gfield_label {
+color: #fff;;
+font-size: 16px;
+padding: 10px;
+}
+
+
+
 /*--------------------------------------------------------------
 2.0 Accessibility
 --------------------------------------------------------------*/
@@ -416,7 +424,7 @@ button,
 input,
 select,
 textarea {
-	color: #333;
+	color: #fff;
 	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
 	font-size: 15px;
 	font-size: 0.9375rem;
@@ -917,7 +925,7 @@ html[lang="th"] * {
 --------------------------------------------------------------*/
 
 label {
-	color: #333;
+	color: #fff;
 	display: block;
 	font-weight: 800;
 	margin-bottom: 0.5em;
